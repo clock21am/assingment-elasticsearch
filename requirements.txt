@@ -58,7 +58,7 @@ pandas==0.17.1
 patsy==0.4.1
 pdfcrowd==2.7
 pexpect==4.0.1
-Pillow==3.1.2
+Pillow==8.3.2
 piston-mini-client==0.7.5
 psutil==3.4.2
 ptyprocess==0.5
