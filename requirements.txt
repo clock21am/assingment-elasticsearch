@@ -105,7 +105,7 @@ SQLAlchemy==1.1.13
 statsmodels==0.6.1
 tables==3.2.2
 tweepy==3.5.0
-Twisted==16.0.0
+Twisted==22.4.0
 ubuntuone-client-data==14.4
 uniconvertor==1.1.5
 unity-lens-photos==1.0
