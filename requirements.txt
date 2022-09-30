@@ -38,7 +38,7 @@ itsdangerous==0.24
 jdcal==1.0
 jedi==0.9.0
 Jinja2==2.8
-joblib==0.9.4
+joblib==1.2.0
 lazy-object-proxy==1.2.1
 lockfile==0.12.2
 logilab-common==1.1.0
